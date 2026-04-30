@@ -10,7 +10,7 @@ It is not a formal argument or empirical study. It is intended as an illustrativ
 
 ## Overview
 
-**Forbidden Philosophers** is a philosophical stage play in which iconic thinkers—Plato, Aristotle, Kant, Nietzsche, Heraclitus, Diogenes, and others—debate truth, logic, and meaning while unknowingly participating in a deeper system.
+**Forbidden Philosophers** is a philosophical stage play presented in a deliberately exaggerated, telenovela-style format, in which iconic thinkers—Plato, Aristotle, Kant, Nietzsche, Heraclitus, Diogenes, and others—debate truth, logic, and meaning while unknowingly participating in a deeper system.
 
 At the center of the play is a simple but dangerous idea:
 
