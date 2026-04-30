@@ -1,5 +1,9 @@
 # Forbidden Philosophers
 
+This repository contains an illustrative artifact demonstrating how reasoning systems degrade when structural loss is not tracked under projection.
+
+It is not a formal argument or empirical study. It is intended as an illustrative demonstration of how reasoning behaves when distinctions are removed but treated as recoverable, leading to drift and failure.
+
 *A modern antimyth about reasoning, loss, and what remains.*
 
 ---
@@ -13,7 +17,7 @@ At the center of the play is a simple but dangerous idea:
 > Every decision removes something.  
 > What is removed does not disappear.
 
-As the play unfolds, a hidden structure—the **Ledger**—emerges. It records not actions, but what those actions exclude. What begins as intellectual debate becomes a confrontation with accumulated, unacknowledged loss.
+As the play unfolds, a hidden structure—the **Ledger**—emerges. It records not actions, but what those actions exclude. What begins as intellectual debate becomes a confrontation with accumulated, unacknowledged loss. This reflects the behavior of reasoning systems operating under projection, where loss accumulates without being represented.
 
 The play explores what happens when systems:
 
@@ -115,7 +119,7 @@ It is intentionally minimal in setting and maximal in conceptual tension.
 
 This play is:
 
-- a structural exploration of reasoning systems  
+- an illustrative artifact demonstrating failure modes in reasoning systems
 - a philosophical drama about consequence  
 - an “antimyth” that runs classical logic under broken assumptions  
 
