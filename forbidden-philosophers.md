@@ -23,11 +23,11 @@
 *(Suddenly: LIGHTNING. WIND. VIOLINS SCREAM.)*
 
 **NARRATOR (too serious, practically vibrating):**
-In an ancient land…
-before the fall of empires…
-before the rise of machines…
+In an ancient land...
+before the fall of empires...
+before the rise of machines...
 before anyone thought to say
-"maybe we should slow down"…
+"maybe we should slow down"...
 
 there lived three men
 who would ruin everything.
@@ -43,9 +43,13 @@ in incompatible ways.
 
 *(THUNDER. CUT.)*
 
-(A clipboard clicks somewhere in the dark.)
-(A CHORUS MEMBER whispers, annoyed): That thunder was not approved in the current budget.
-(ANOTHER CHORUS MEMBER whispers): We’ll have to borrow it from later.
+*(A clipboard clicks somewhere in the dark.)*
+
+**CHORUS MEMBER (whispers, annoyed):**
+That thunder was not approved in the current budget.
+
+**ANOTHER CHORUS MEMBER (whispers):**
+We’ll have to borrow it from later.
 
 ---
 
@@ -95,9 +99,8 @@ WHICH MEANS THEY'RE ALL TRUE!
 **ORACLE:**
 THE GODS HAVE CHOSEN THREE!
 
-Assistant (hopeful):
-
-So… action items?
+**Assistant (hopeful):**
+So... action items?
 
 *(She points wildly.)*
 
@@ -124,7 +127,7 @@ THE SMOKE IS UNCLEAR!
 My lady, perhaps if you could—
 
 **ORACLE (now whispering intensely):**
-I also see…
+I also see...
 a fish.
 It will be important.
 Don't ask me why.
@@ -136,11 +139,11 @@ And a barrel.
 And a chair.
 ¡Dios mío, SO MANY CHAIRS!
 
-(In the corner of the temple, a LARGE BOOK on a stand turns one page by itself. No one reacts.)
-(A faint dust cloud rises. No one coughs.)
+*(In the corner of the temple, a LARGE BOOK on a stand turns one page by itself. No one reacts.)*
+*(A faint dust cloud rises. No one coughs.)*
 
 **ASSISTANT (hesitant):**
-…Is that bad?
+...Is that bad?
 
 **ORACLE:**
 I SEE A MAN WHO ASKS TOO MANY QUESTIONS!
@@ -160,7 +163,7 @@ THE FUTURE KEEPS CHANGING ITS MIND!
 Wait, there's more—
 I see a tournament!
 No, a trial!
-No, a…
+No, a...
 ¿qué es eso?
 A MACHINE?
 A MACHINE THAT THINKS?
@@ -173,7 +176,7 @@ THE FUTURE IS INTERROGATING ME!
 THIS HAS NEVER HAPPENED BEFORE!
 
 **ASSISTANT (quietly, to the other priests):**
-Should we… stop the prophecy?
+Should we... stop the prophecy?
 
 **ORACLE (suddenly calm, terrifyingly so):**
 No.
@@ -188,16 +191,16 @@ The men will become the operations.
 And no one will remember
 which came first.
 
-ASSISTANT (small voice):
-…Do we have funding for "operations replacing men"?
+**ASSISTANT (small voice):**
+...Do we have funding for "operations replacing men"?
 
-ORACLE (staring, dead serious):
+**ORACLE (staring, dead serious):**
 No.
 
 *(Long pause.)*
 
 **ASSISTANT:**
-…I don't understand, my lady.
+...I don't understand, my lady.
 
 **ORACLE (standing, robes billowing):**
 Good.
@@ -217,7 +220,7 @@ to escape THAT confusion.
 *(Beat.)*
 
 **ASSISTANT:**
-Is… that bad?
+Is... that bad?
 
 **ORACLE (quiet, exhausted, terrified):**
 Yes.
@@ -225,7 +228,7 @@ Yes.
 *(She collapses. The GOAT wakes up, sees her, faints again.)*
 
 **ASSISTANT (to the other priests):**
-…Should we warn someone?
+...Should we warn someone?
 
 **PRIEST #2:**
 Who would we even tell?
@@ -253,13 +256,13 @@ Brothers.
 Sisters.
 Regular polygons.
 
-Today…
+Today...
 we do not count.
 
 We **commune**.
 
 **DISCIPLE #1 (trembling):**
-Master… is it true the gods speak through numbers?
+Master... is it true the gods speak through numbers?
 
 **PYTHAGORAS (whispering):**
 No.
@@ -312,12 +315,12 @@ collapsed into the same truth!
 *(A disciple sobs openly.)*
 
 **DISCIPLE #1 (whispering):**
-…What's a residue?
+...What's a residue?
 
 *(PYTHAGORAS stops. Turns. Stares into the distance like he's seeing through dimensions.)*
 
 **PYTHAGORAS (softly, like a threat):**
-A residue…
+A residue...
 is what remains
 when you refuse to understand the wheel.
 
@@ -339,7 +342,7 @@ But as a **machine**.
 *(Two disciples faint simultaneously. The goat backs toward the door.)*
 
 **DISCIPLE #2:**
-A… machine, master?
+A... machine, master?
 
 **PYTHAGORAS:**
 Yes.
@@ -349,10 +352,10 @@ A machine that NEVER STOPS.
 
 *(The wheel begins to rotate on its own. No one is touching it.)*
 
-DISCIPLE #1 (awed):
-Master… is the wheel insured?
+**DISCIPLE #1 (awed):**
+Master... is the wheel insured?
 
-PYTHAGORAS (offended):
+**PYTHAGORAS (offended):**
 The gods don’t do insurance.
 
 **PYTHAGORAS (arms wide, ecstatic):**
@@ -363,13 +366,13 @@ The cosmos is not chaos!
 It is CYCLE!
 ¡Es una máquina perfecta!
 
-And we…
-WE…
+And we...
+WE...
 are the priests of its turning!
 
 *(Lightning STRIKES the center of the wheel. Everyone screams. The goat runs out the door.)*
 
-(A distant, bored voice from offstage): Put it on the repair list.)
+*(A distant, bored voice from offstage): Put it on the repair list.)*
 
 **PYTHAGORAS (laughing):**
 YES!
@@ -386,11 +389,11 @@ THE GODS APPROVE!
 *(The disciples turn. The wheel stops glowing. Even Pythagoras looks annoyed.)*
 
 **PLATO (hand on heart, voice trembling with emotion):**
-Pythagoras…
+Pythagoras...
 
 *(He pauses. The music swells. He waits for it.)*
 
-…my old friend.
+...my old friend.
 
 *(He looks at the wheel. His face falls.)*
 
@@ -406,11 +409,11 @@ I understand it perfectly.
 
 *(The disciples lean in. This is going to be good.)*
 
-It is…
+It is...
 
 *(He touches the edge of the wheel gently, like it might break.)*
 
-…a shadow.
+...a shadow.
 
 *(Collective GASP. Someone clutches their robes. The goat pokes its head back in to watch.)*
 
@@ -463,14 +466,14 @@ DO NOT DO THIS.
 **PLATO (he cannot stop, he is already in the zone):**
 People chained to number.
 Mistaking cycles for truth.
-Watching shadows of divisibility dance on the wall…
+Watching shadows of divisibility dance on the wall...
 
 *(He's getting emotional now. His voice cracks.)*
 
 Thinking rotation is understanding.
 
-DISCIPLE #3 (soft, unsure):
-But… it does look like shadows now that you say it.
+**DISCIPLE #3 (soft, unsure):**
+But... it does look like shadows now that you say it.
 
 *(Beat.)*
 
@@ -494,7 +497,7 @@ The cosmos doesn't turn, querido.
 It **participates** in Turning-Itself.
 
 **DISCIPLE #2 (confused):**
-…What's the difference?
+...What's the difference?
 
 **PLATO (suddenly energized):**
 EVERYTHING!
@@ -574,16 +577,16 @@ Wheel: physical object.
 Form: conceptual abstraction.
 Truth: correspondence between claims and reality.
 
-*(The disciples look… relieved. This makes SENSE.)*
+*(The disciples look... relieved. This makes SENSE.)*
 
 **DISCIPLE #2:**
-That… actually makes sense.
+That... actually makes sense.
 
 **PYTHAGORAS (betrayed):**
 Traitor.
 
 **PLATO (hurt, voice small):**
-Aristotle…
+Aristotle...
 you would turn wonder into bookkeeping?
 
 **ARISTOTLE:**
@@ -612,7 +615,7 @@ The Four Causes of Rotation,
 and a Subcommittee on Geometric Perfection.
 
 **PYTHAGORAS:**
-A… subcommittee?
+A... subcommittee?
 
 **ARISTOTLE:**
 With quarterly reviews.
@@ -656,7 +659,7 @@ Classifiable.
 
 *(A SHARP SOUND. Something breaks. Maybe the wheel. Maybe reality.)*
 
-(A second page turns in the same LARGE BOOK. Still, no one notices.)
+*(A second page turns in the same LARGE BOOK. Still, no one notices.)*
 
 **ARISTOTLE (continuing, relentless):**
 Category: Sacred Objects
@@ -684,11 +687,11 @@ Plato gazing upward.
 Aristotle writing furiously.)*
 
 **NARRATOR (quiet, ominous):**
-And in that moment…
+And in that moment...
 
 *(Pause.)*
 
-…roles were born.
+...roles were born.
 
 *(The lighting changes. Each man is now in a separate pool of light.)*
 
@@ -710,11 +713,11 @@ But operations they performed.
 
 *(Another beat.)*
 
-And operations, once begun…
+And operations, once begun...
 
 *(The lights flicker.)*
 
-…do not know how to stop.
+...do not know how to stop.
 
 ---
 
@@ -725,13 +728,13 @@ And operations, once begun…
 **CHORUS (measured, clear):**
 When number becomes destiny,
 when form replaces care,
-when explanation becomes identity…
+when explanation becomes identity...
 
 *(They pause.)*
 
-…the world fractures.
+...the world fractures.
 
-CHORUS LEADER (still measured, but with a hint of accounting):
+**CHORUS LEADER (still measured, but with a hint of accounting):**
 Also: our context budget is finite.
 We cannot keep amortizing your disasters forever.
 
@@ -749,12 +752,12 @@ Numerologically unsound.
 *(The CHORUS looks at each other. Then at the audience.)*
 
 **CHORUS:**
-We warned them.
-We even wrote it down.
+> We warned them.
+> We even wrote it down.
 
 *(They step back into the shadows.)*
 
-(One Chorus member quietly pulls out a small ledger. They do not show it to anyone.)
+*(One Chorus member quietly pulls out a small ledger. They do not show it to anyone.)*
 
 **CHORUS MEMBER #2 (muttering):**
 We're going to be warning them for nine more sections.
@@ -797,14 +800,14 @@ They never listen anyway.
 **NARRATOR (bright, reckless):**
 In the previous section, three roles were born.
 
-In this section…
+In this section...
 those roles become **habits**.
 
-And habits become…
+And habits become...
 
 *(beat)*
 
-…everyone else's problem.
+...everyone else's problem.
 
 ---
 
@@ -813,9 +816,9 @@ And habits become…
 *(Night. PLATO sits alone, staring at shadows on a wall like it's a premium streaming service. He has a QUILL and PARCHMENT. He's been writing.)*
 
 **PLATO (whispering, reverent):**
-Look at them…
+Look at them...
 
-They move…
+They move...
 
 as if they are real.
 
@@ -830,7 +833,7 @@ You dance for me, yet I'm alone—
 *(A cold wind blows. A GHOSTLY VOICE whispers.)*
 
 **VOICE:**
-Plaatóóóó…
+Plaatóóóó...
 
 **PLATO (pen drops, gasping):**
 S-Socrates?
@@ -841,7 +844,7 @@ S-Socrates?
 My child.
 
 **PLATO (clutching his poems to his chest):**
-Master… are the shadows… the Forms?
+Master... are the shadows... the Forms?
 
 **GHOST SOCRATES:**
 No.
@@ -850,11 +853,11 @@ No.
 Then what are they?
 
 **GHOST SOCRATES (gentle, tired):**
-They are…
+They are...
 
 *(He leans in.)*
 
-…a wall.
+...a wall.
 
 *(PLATO recoils as if stabbed. He drops his poems. They scatter.)*
 
@@ -883,7 +886,7 @@ I know.
 *(He looks at the poems on the ground.)*
 
 **GHOST SOCRATES:**
-Are you… writing love poetry to concepts again?
+Are you... writing love poetry to concepts again?
 
 **PLATO (defensive):**
 Justice deserves to be celebrated!
@@ -914,7 +917,7 @@ They'll understand someday.
 *(He continues writing.)*
 
 "Your essence transcends my mortal sight,
-Yet I pursue you through eternal night…"
+Yet I pursue you through eternal night..."
 
 *(Soft, sad violin. Fade out.)*
 
@@ -973,16 +976,16 @@ Subcategory: applause.
 *(The crowd applauds, because it's listed.)*
 
 **ARISTOTLE (to himself, barely audible):**
-Yes…
-Yes, this is…
+Yes...
+Yes, this is...
 this is what clarity feels like.
 
 *(A tiny footnote appears above his head like a halo.)*
 
-STUDENT (whispering):
+**STUDENT (whispering):**
 Does the Chorus invoice for this kind of clarity?
 
-ARISTOTLE (without looking up):
+**ARISTOTLE (without looking up):**
 Everything invoices.
 
 **STUDENT #2:**
@@ -1000,7 +1003,7 @@ Which means tomorrow we can organize it BETTER.
 With sub-subcategories.
 
 **STUDENT #2:**
-Is that… necessary?
+Is that... necessary?
 
 **ARISTOTLE (eyes wide, slightly manic):**
 Is it necessary to BREATHE?
@@ -1058,11 +1061,11 @@ You less.
 
 *(He looks at PYTHAGORAS, who has appeared from somewhere.)*
 
-And you…
+And you...
 
 *(pause)*
 
-…you're obsessed with triangles.
+...you're obsessed with triangles.
 
 **PYTHAGORAS (offended):**
 They're sacred.
@@ -1105,7 +1108,7 @@ No.
 
 *(The slap echoes. Birds fly away. Somewhere, Zeus flinches.)*
 
-(In the far distance, the LARGE BOOK turns one page. The sound is faint but unmistakable.)
+*(In the far distance, the LARGE BOOK turns one page. The sound is faint but unmistakable.)*
 
 **DIOGENES:**
 And also no respect for people who live in caves.
@@ -1113,7 +1116,7 @@ And also no respect for people who live in caves.
 *(Gasps echo. A clay pot drops in slow motion. Again. It's a different pot but the same energy.)*
 
 **PLATO (reeling, touching his face):**
-The… cave…
+The... cave...
 
 You don't understand—
 
@@ -1156,13 +1159,13 @@ Yes—but the SHADOWS of commerce—
 Do not.
 
 **PLATO (sweating, passionate, in too deep):**
-The merchants are chained…
-by desire…
+The merchants are chained...
+by desire...
 
 *(He gestures to an OLIVE VENDOR who is just trying to live.)*
 
 **PLATO:**
-…mistaking profit for Truth.
+...mistaking profit for Truth.
 
 **OLIVE VENDOR:**
 Sir, please. They're just olives.
@@ -1243,10 +1246,10 @@ He's going to be here all day.
 **ARISTOTLE:**
 All WEEK.
 
-ARISTOTLE:
+**ARISTOTLE:**
 Someone should have been maintaining this.
 
-DIOGENES:
+**DIOGENES:**
 Careful. That’s how it starts.
 
 *(The goat walks by, shakes its head, keeps walking.)*
@@ -1258,18 +1261,18 @@ Careful. That’s how it starts.
 *(Cut to: A dim chamber. A marble table. One oil lamp. EUCLID sits like a mafia boss, calm and terrifying. He holds a COMPASS like a knife.)*
 
 **EUCLID (softly, menacing):**
-Everyone in Greece… uses my theorems.
+Everyone in Greece... uses my theorems.
 
 But no one respects me.
 
 *(He taps the compass on the table. Each tap echoes.)*
 
-This… ends.
+This... ends.
 
 *(Henchmen step forward: THE FIVE POSTULATES. They crack knuckles geometrically. Angles everywhere.)*
 
 **POSTULATE I:**
-Boss… who do we punish first?
+Boss... who do we punish first?
 
 **EUCLID:**
 That damn Pythagoras.
@@ -1279,20 +1282,20 @@ He thinks he invented triangles.
 *(He slams the compass into the table. Lightning for no reason. Thunder indoors.)*
 
 **POSTULATE II:**
-Do we… extend a line indefinitely?
+Do we... extend a line indefinitely?
 
 **EUCLID (leaning forward):**
-We extend it… into his FACE.
+We extend it... into his FACE.
 
 *(The Postulates murmur "ooh." One of them is taking notes.)*
 
 **POSTULATE III (conflicted):**
-Is violence… consistent with geometry?
+Is violence... consistent with geometry?
 
 **EUCLID:**
 Geometry is consistency.
 
-Violence is… applied consistency.
+Violence is... applied consistency.
 
 *(They all nod like this makes perfect sense.)*
 
@@ -1307,14 +1310,14 @@ Can't punch a Form.
 *(They all laugh. It's a cold, mathematical laugh.)*
 
 **POSTULATE V (the weird one):**
-And… Aristotle?
+And... Aristotle?
 
 **EUCLID (pausing):**
-Aristotle…
+Aristotle...
 
 *(Long beat.)*
 
-…categorizes us correctly.
+...categorizes us correctly.
 
 I respect that.
 
@@ -1329,11 +1332,11 @@ For now.
 **EUCLID:**
 Send word to the Pythagoreans.
 
-Tell them…
+Tell them...
 
 *(He smiles.)*
 
-…the angles are coming.
+...the angles are coming.
 
 *(Thunder. Fade to black.)*
 
@@ -1397,7 +1400,7 @@ I'M NOT LISTENING!
 *(PLATO collapses onto the ground where the chair was, mourning.)*
 
 **PLATO (to the empty space):**
-I'll remember you…
+I'll remember you...
 
 ---
 
@@ -1426,7 +1429,7 @@ Boss says we send a message.
 *(They pull out CHALK and draw a MASSIVE THREATENING TRIANGLE on the ground.)*
 
 **POSTULATE I:**
-Tell Pythagoras…
+Tell Pythagoras...
 
 *(They write inside the triangle: "WE KNOW WHERE YOU LIVE.")*
 
@@ -1457,11 +1460,11 @@ No.
 *(The market clears. For a moment, the noise drops. Just Diogenes and his barrel.)*
 
 **DIOGENES (not joking, for half a second):**
-I live in a barrel because if I want nothing…
+I live in a barrel because if I want nothing...
 
-(Two people in plain work robes cross silently behind him, carrying a cracked piece of marble from earlier. One of them points offstage as if keeping a list.)
+*(Two people in plain work robes cross silently behind him, carrying a cracked piece of marble from earlier. One of them points offstage as if keeping a list.)*
 
-…nothing can own me.
+...nothing can own me.
 
 *(Beat. The play does not let you stay there.)*
 
@@ -1477,13 +1480,13 @@ If you say "cave," I'm hitting you again.
 *(PLATO shuts his mouth like a child learning a boundary. The fish reappears in Diogenes' hand. No one knows how.)*
 
 **PLATO (small voice):**
-…I wasn't going to say cave.
+...I wasn't going to say cave.
 
 **DIOGENES:**
 You were thinking it.
 
 **PLATO:**
-…yes.
+...yes.
 
 ---
 
@@ -1492,7 +1495,7 @@ You were thinking it.
 *(NARRATOR steps forward with the confidence of someone who has never been punished by consequences.)*
 
 **NARRATOR (grand):**
-Next time on **THE FORBIDDEN PHILOSOPHERS**…
+Next time on **THE FORBIDDEN PHILOSOPHERS**...
 
 At last, we will have order.
 
@@ -1507,7 +1510,7 @@ We may witness:
 *(Beat.)*
 
 **NARRATOR (smaller):**
-…Unless something completely unrelated happens,
+...Unless something completely unrelated happens,
 
 because destiny is extremely rude.
 
@@ -1544,7 +1547,7 @@ This time—
 
 ## SCENE 1 — THE CHORUS EXPLAINS (ONE LAST TIME)
 
-(The CHORUS enters in full formation. Calm. Professional. They carry clipboards and a battered ledger of expenses. One has a megaphone for some reason.)
+*(The CHORUS enters in full formation. Calm. Professional. They carry clipboards and a battered ledger of expenses. One has a megaphone for some reason.)*
 
 **CHORUS LEADER:**
 We will now provide context.
@@ -1560,7 +1563,7 @@ Here is why categorization temporarily stabilizes chaos.
 **CHORUS MEMBER #3:**
 Here is why the fish slap mattered.
 
-CHORUS MEMBER #1 (flatly):
+**CHORUS MEMBER #1 (flatly):**
 Here is the invoice for explaining why it mattered.
 
 *(They begin to speak over one another, weaving a clear explanation. It's actually good. People are nodding.)*
@@ -1601,7 +1604,7 @@ Your explanation is promising.
 However, I will require:
 
 * definitions
-* sub-definitions  
+* sub-definitions
 * edge cases
 * a glossary
 * a taxonomy of metaphors
@@ -1806,12 +1809,12 @@ Watch us.
 
 *(The CHORUS removes their masks, clipboards, whatever marks them as CHORUS. They place them neatly at center stage in a pile.)*
 
-(They place the battered expense-ledger on top of the pile like a final offering.)
+*(They place the battered expense-ledger on top of the pile like a final offering.)*
 
 *(They produce SIGNS from somewhere:)*
 
 - "CONTEXT IS LABOR"
-- "NO EXPLANATION WITHOUT APPRECIATION"  
+- "NO EXPLANATION WITHOUT APPRECIATION"
 - "ON STRIKE FOR FAIR LISTENING CONDITIONS"
 - "THE CHORUS IS NOT YOUR MOTHER"
 
@@ -1824,7 +1827,7 @@ What do we want?
 ACTIVE LISTENING!
 
 **CHORUS:**
-When do we want it?
+> When do we want it?
 
 **CHORUS MEMBER #2:**
 RETROACTIVELY!
@@ -1837,7 +1840,7 @@ No more care,
 If you won't listen,
 We won't be there! 🎵
 
-CHORUS LEADER (calling out like a union rep):
+**CHORUS LEADER (calling out like a union rep):**
 Also: your "emergency prophecy" surcharge is now triple.
 
 *(The philosophers stare, dumbfounded.)*
@@ -1857,22 +1860,25 @@ Of course. I will categorize them.
 
 **CHORUS LEADER:**
 We demand:
-ONE: You stop interrupting our explanations.
-TWO: You actually implement our warnings.
-THREE: Retroactive credit for all prophecies that came true.
+**ONE:**
+You stop interrupting our explanations.
+**TWO:**
+You actually implement our warnings.
+**THREE:**
+Retroactive credit for all prophecies that came true.
 
 **ARISTOTLE:**
 I can offer you:
 A footnote acknowledging your contributions—
 
 **CHORUS:**
-NO.
+> NO.
 
 **ARISTOTLE:**
 —and a subcommittee to study your concerns—
 
 **CHORUS:**
-NO!
+> NO!
 
 **ARISTOTLE:**
 —which will report its findings in six to eight months—
@@ -1899,7 +1905,7 @@ Your strike is like a cave of protest—
 **ARISTOTLE:**
 I have hired replacement context-providers.
 
-ARISTOTLE (defensive):
+**ARISTOTLE (defensive):**
 They were cheaper.
 
 **CHORUS (from picket line):**
@@ -1967,7 +1973,7 @@ The wheel will guide us.
 
 *(The wheel spins too fast. Sparks fly. It's clearly not calibrated for this.)*
 
-(Two plain-robed workers rush in with a tool and a bucket of sand. They try to slow the wheel physically. It does not help.)
+*(Two plain-robed workers rush in with a tool and a bucket of sand. They try to slow the wheel physically. It does not help.)*
 
 **DIOGENES:**
 I liked them.
@@ -2004,15 +2010,15 @@ THAT DOESN'T HELP!
 
 *(The Chorus continues picketing silently. The low note from the beginning returns, but quieter. Emptier.)*
 
-(The LARGE BOOK appears at the edge of the stage. A page turns—slowly—without any hand touching it.)
-(For the first time, someone notices.)
-PLATO (quiet):
+*(The LARGE BOOK appears at the edge of the stage. A page turns—slowly—without any hand touching it.)*
+*(For the first time, someone notices.)*
+**PLATO (quiet):**
 What is that?
 
-ARISTOTLE (also quiet):
+**ARISTOTLE (also quiet):**
 A record.
 
-DIOGENES (barely audible):
+**DIOGENES (barely audible):**
 Don’t argue with it.
 
 *(The philosophers try to continue as normal, but everything feels wrong.)*
@@ -2049,7 +2055,7 @@ Next episode will—
 **NARRATOR (smaller):**
 Next episode *would have* explained:
 
-* who is right  
+* who is right
 * what it all means
 * and why this keeps happening
 
@@ -2074,10 +2080,10 @@ Things will probably get worse!
 *(The Chorus continues marching. Their chant echoes as lights fade:)*
 
 **CHORUS:**
-🎵 No more warnings,
-No more signs,
-You're on your own,
-Good luck this time! 🎵
+> No more warnings,
+> No more signs,
+> You're on your own,
+> Good luck this time!
 
 *(BLACKOUT.)*
 
@@ -2097,7 +2103,7 @@ Good news!
 
 In the absence of explanation,
 
-humanity has invented…
+humanity has invented...
 
 *(trumpet flourish)*
 
@@ -2133,7 +2139,7 @@ No criteria.
 No explanation.
 And no appeal.
 
-ERIS (smiling):
+**ERIS (smiling):**
 Don’t worry. Someone will keep score.
 
 *(Beat.)*
@@ -2212,7 +2218,7 @@ Requires subcategory.
 We will evaluate according to:
 
 * Excellence
-* Consistency  
+* Consistency
 * Contribution
 * Measurability
 * Interpretability
@@ -2225,21 +2231,21 @@ And a bonus category:
 
 *(The crowd murmurs approvingly. This sounds legitimate.)*
 
-CHORUS LEADER (from picket line):
+**CHORUS LEADER (from picket line):**
 Who maintains the record?
 
-ARISTOTLE:
+**ARISTOTLE:**
 The record?
 
-CHORUS LEADER:
+**CHORUS LEADER:**
 Yes. The Ledger.
 
-(Silence.)
+*(Silence.)*
 
-ARISTOTLE:
-…There’s a ledger?
+**ARISTOTLE:**
+...There’s a ledger?
 
-CHORUS LEADER:
+**CHORUS LEADER:**
 There is always a ledger.
 
 (A Chorus member places a large book down center-stage.
@@ -2274,11 +2280,11 @@ Oh no.
 
 ## SCENE 4 — THE LEDGER IS REAL (EL REGISTRO APARECE)
 
-(A low, dull SOUND. Like a thick book being dropped.)
+*(A low, dull SOUND. Like a thick book being dropped.)*
 
-(Everyone looks down.)
+*(Everyone looks down.)*
 
-(The LEDGER is now OPEN. No one remembers opening it.)
+*(The LEDGER is now OPEN. No one remembers opening it.)*
 
 **CITIZEN #3:**
 What’s that?
@@ -2301,10 +2307,10 @@ Because if it’s informal record-keeping, that’s a compliance issue.
 **CHORUS LEADER:**
 Reality.
 
-(A page turns by itself.)
+*(A page turns by itself.)*
 
 **PYTHAGORAS (leaning in):**
-There are… numbers.
+There are... numbers.
 
 **CHORUS MEMBER #2:**
 Costs.
@@ -2312,13 +2318,13 @@ Costs.
 **DIOGENES:**
 Who’s keeping it?
 
-(Beat.)
+*(Beat.)*
 
 **CHORUS LEADER:**
 No one.
 That’s the problem.
 
-(They all stare at the Ledger. Nobody touches it.)
+*(They all stare at the Ledger. Nobody touches it.)*
 
 ---
 
@@ -2618,7 +2624,7 @@ The winner is—
 **PLATO:**
 Wait.
 
-Before judgment…
+Before judgment...
 
 *(He gestures dramatically, hair blowing.)*
 
@@ -2685,7 +2691,7 @@ Stop.
 **HYPATIA:**
 Judgment without context is violence.
 
-HYPATIA:
+**HYPATIA:**
 And violence compounds interest.
 
 *(Beat.)*
@@ -2800,10 +2806,10 @@ Right?
 *(The Chorus, still picketing, sings quietly:)*
 
 **CHORUS:**
-🎵 They never learn,
-They never will,
-We told them twice,
-They're learning still... 🎵
+> They never learn,
+> They never will,
+> We told them twice,
+> They're learning still...
 
 *(Thunder. Curtain. The goat walks across the stage shaking its head.)*
 
@@ -2850,7 +2856,7 @@ TWO! FOUR! SIX! EIGHT!
 WHO DO WE APPRECIATE?
 PYTHAGORAS! PYTHAGORAS!
 HE'S THE GREATEST CALCULATUS!
-(No one knows what that means. They chant it anyway.)
+*(No one knows what that means. They chant it anyway.)*
 
 **ANNOUNCER:**
 Representing FORM—
@@ -2906,14 +2912,14 @@ No.
 
 ## SCENE 2 — THE BUDGET IS EXCEEDED (EL PRESUPUESTO)
 
-(A HORN sounds. Not celebratory. Administrative.)
+*(A HORN sounds. Not celebratory. Administrative.)*
 
 **ANNOUNCER (confused, reading a card):
-Uh… attention please.
+Uh... attention please.
 
 We’ve exceeded the explanation budget.
 
-(Silence.)
+*(Silence.)*
 
 **PLATO:**
 The what?
@@ -2929,22 +2935,22 @@ That’s impossible.
 **ANNOUNCER:**
 It’s right here.
 
-(Holds up a small card: “CONTEXT LIMIT REACHED.”)
-(No one laughs.)
+*(Holds up a small card: “CONTEXT LIMIT REACHED.”)*
+*(No one laughs.)*
 
 **PYTHAGORAS:**
-Can’t we just… add more?
+Can’t we just... add more?
 
 **CHORUS MEMBER #1 (from gate):**
 You already spent tomorrow’s.
 
-(Crowd murmurs.)
+*(Crowd murmurs.)*
 
 **CHORUS LEADER:**
 Every new system consumes attention.
 No one budgeted for maintenance.
 
-(The stadium lights flicker. Barely.)
+*(The stadium lights flicker. Barely.)*
 
 ---
 
@@ -2953,7 +2959,7 @@ No one budgeted for maintenance.
 *(IMMANUEL KANT appears in a striped referee uniform. He carries a rulebook the size of a coffin. Possibly IS a coffin. He drags it to center stage.)*
 
 **KANT (blowing whistle so loud people cover their ears):**
-ATTENTION!
+> **ATTENTION!**
 
 All actions will be judged according to universalizable rules.
 
@@ -3173,7 +3179,7 @@ THAT VIOLATES—
 *(Nietzsche rips the rulebook in half.)*
 
 **NIETZSCHE:**
-YOUR RULES ARE CHAINS!
+> **YOUR RULES ARE CHAINS!**
 
 **KANT (horrified, clutching the torn pages):**
 This... this is the only copy...
@@ -3215,7 +3221,7 @@ YOU THINK YOU CAN HAVE RULES?!
 *(He lights Kant's remaining rulebook pages on fire.)*
 
 **HERACLITUS:**
-YOU THINK YOU CAN HAVE STABILITY?!
+> **YOU THINK YOU CAN HAVE STABILITY?!**
 
 *(He sets one of Aristotle's charts on fire.)*
 
@@ -3228,7 +3234,7 @@ YOU THINK YOU CAN HAVE STABILITY?!
 It's... it's beautiful.
 Destruction as Form...
 
-ANNOUNCER (screaming over flames):
+**ANNOUNCER (screaming over flames):**
 We are running a deficit on meaning!
 
 **DIOGENES (to the goats):**
@@ -3407,7 +3413,7 @@ NO!
 *(The scoreboard flickers. Numbers appear and disappear.)*
 
 **ANNOUNCER (confused, reading):**
-We have… a tie.
+We have... a tie.
 Again.
 
 *(Crowd groans.)*
@@ -3435,11 +3441,11 @@ This violates SO many rules...
 *(ARISTOTLE steps forward, breathless, soot-covered, still clutching one unburned chart.)*
 
 **ARISTOTLE:**
-Competition failed because it lacked…
+Competition failed because it lacked...
 
 *(He searches for the word.)*
 
-…final adjudication.
+...final adjudication.
 
 **PLATO (also soot-covered):**
 Yes. A judgment beyond judgment.
@@ -3789,7 +3795,7 @@ Objection! "Believe" implies the prisoners in the cave—
 **JUDGE (slamming gavel repeatedly):**
 NO CAVES! NO CAVES IN MY COURTROOM!
 
-PLATO (quietly, to himself):
+**PLATO (quietly, to himself):**
 Every room is a cave if you try hard enough.
 
 **DIOGENES (standing up):**
@@ -3815,48 +3821,48 @@ Yes. Yes, you may.
 
 ## SCENE 4 — THE REPAIR GUILD ARRIVES (EL GREMIO TARDE)
 
-(Three figures enter quietly. Practical clothes. Tools, not scrolls.)
+*(Three figures enter quietly. Practical clothes. Tools, not scrolls.)*
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 We’re here about the damage.
 
-JUDGE:
+**JUDGE:**
 Who are you?
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 Repair Guild.
 
-(Beat.)
+*(Beat.)*
 
-ARISTOTLE:
+**ARISTOTLE:**
 On whose authority?
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 Continuity.
 
-PLATO:
+**PLATO:**
 What do you repair?
 
-REPAIR GUILD MEMBER:
+**REPAIR GUILD MEMBER:**
 Cracks.
 Miscalculations.
 Systems that almost worked.
 
-PYTHAGORAS:
+**PYTHAGORAS:**
 Can you restore the wheel?
 
-REPAIR GUILD:
+**REPAIR GUILD:**
 We can stabilize it.
 Not sanctify it.
 
-(They gesture to the Ledger.)
+*(They gesture to the Ledger.)*
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 Someone’s been recording harm.
 
 No one’s been fixing it.
 
-(Silence. This hits.)
+*(Silence. This hits.)*
 
 ---
 
@@ -4072,13 +4078,13 @@ Out of...?
 **ARISTOTLE:**
 Eight hundred forty-seven.
 
-REPAIR GUILD MEMBER (interrupting):
+**REPAIR GUILD MEMBER (interrupting):**
 Reading won’t repair anything.
 
-ARISTOTLE:
+**ARISTOTLE:**
 Procedure requires—
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 Procedure caused this.
 
 *(PYTHAGORAS faints again immediately.)*
@@ -4289,7 +4295,7 @@ I cannot render a verdict.
 **JUDGE:**
 There is insufficient context.
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 Then the only ethical move
 is suspension — not judgment.
 
@@ -4372,7 +4378,7 @@ this episode has been shortened.
 We apologize.
 
 *(The Chorus, watching from outside, holds up a sign:
-"WE TOLD YOU SO")*
+> **"WE TOLD YOU SO")***
 
 **NARRATOR (to Chorus):**
 Not now!
@@ -4633,47 +4639,47 @@ Only around excessive drama.
 
 *(SOCRATES' other eye tries to roll but can't. He sighs.)*
 
-JOHN (watching them, genuinely worried):
+**JOHN (watching them, genuinely worried):**
 It’s too bad Raphael isn’t here.
 
-(A beat. Everyone freezes just long enough to consider this.)
+*(A beat. Everyone freezes just long enough to consider this.)*
 
-SOCRATES:
+**SOCRATES:**
 Why.
 
-JOHN:
+**JOHN:**
 He could paint this.
 
-SOCRATES:
+**SOCRATES:**
 This is precisely why Raphael must never be allowed anywhere near us.
 
-JESUS (brightening, instantly performing):
+**JESUS (brightening, instantly performing):**
 Wait—
-(does the eye thing again, impossibly harder)
+*(does the eye thing again, impossibly harder)*
 —like this?
 
-(Light hits him WRONG. Halo absolutely not approved by anyone. Flowers PANIC.)
+*(Light hits him WRONG. Halo absolutely not approved by anyone. Flowers PANIC.)*
 
-JESUS (to imaginary painter):
+**JESUS (to imaginary painter):**
 Be honest, Raphael. You’d fix the eye, wouldn’t you?
 
-SOCRATES (shouting):
+**SOCRATES (shouting):**
 HE’D MAKE IT POINT.
 
-JESUS:
+**JESUS:**
 He always does.
 
-(They lock eyes.)
+*(They lock eyes.)*
 
-SOCRATES:
+**SOCRATES:**
 History would never recover from this.
 
-JESUS (cheerfully):
+**JESUS (cheerfully):**
 Oh, it would recover.
 
-(Beat.)
+*(Beat.)*
 
-JESUS:
+**JESUS:**
 Just incorrectly.
 
 ---
@@ -5417,7 +5423,7 @@ After the failure of judgment,
 
 after the collapse of procedure,
 
-after the embarrassment of uncertainty…
+after the embarrassment of uncertainty...
 
 humanity did what it always does.
 
@@ -5461,7 +5467,7 @@ That's... that's wonderful!
 **ALGORITHM:**
 Efficiency is inevitable.
 
-(Somewhere offstage, the LEDGER turns a page. The Algorithm does not notice.)
+*(Somewhere offstage, the LEDGER turns a page. The Algorithm does not notice.)*
 
 *(For a moment, there is HOPE. Real, genuine hope. Maybe this will work.)*
 
@@ -5472,11 +5478,11 @@ Efficiency is inevitable.
 *(ARISTOTLE circles the Algorithm slowly, eyes wide, touching it gently.)*
 
 **ARISTOTLE (awed, whispering):**
-Your classifications…
+Your classifications...
 
-Your decision trees…
+Your decision trees...
 
-Your thresholds…
+Your thresholds...
 
 *(He swallows. His voice cracks.)*
 
@@ -5629,7 +5635,7 @@ But... it was sacred...
 **ALGORITHM:**
 Sacred is not a meaningful variable.
 
-CHORUS MEMBER #1 (from the window):
+**CHORUS MEMBER #1 (from the window):**
 Sacred isn’t in the model.
 Damage is.
 
@@ -5705,14 +5711,14 @@ I feel... organized.
 *(Applause. The kind that feels responsible. The kind that feels like relief.)*
 
 **NARRATOR:**
-For the first time in this entire play…
+For the first time in this entire play...
 
 no one argued.
 
-CHORUS LEADER (quiet, worried):
+**CHORUS LEADER (quiet, worried):**
 Nothing is being repaired.
 
-CHORUS MEMBER #2:
+**CHORUS MEMBER #2:**
 And the budget hasn’t stopped running.
 
 *(The Chorus, still on strike outside, looks through the window. Concerned.)*
@@ -5904,15 +5910,15 @@ And if a person doesn't fit?
 **ALGORITHM (no hesitation):**
 Same process.
 
-HYPATIA (gesturing subtly toward the Ledger):
+**HYPATIA (gesturing subtly toward the Ledger):**
 It’s still writing.
 
-(The page turns loudly this time.)
+*(The page turns loudly this time.)*
 
-ALGORITHM:
+**ALGORITHM:**
 The record is unnecessary.
 
-HYPATIA:
+**HYPATIA:**
 That’s what every system says
 right before it can’t be shut down.
 
@@ -6070,7 +6076,7 @@ I cannot be broken.
 
 ## *(Socrates' origin; enforced harmony revealed)*
 
-*(The pleasant hum of the Algorithm continues… then falters. Glitches. The light flickers between clinical white and shadow.)*
+*(The pleasant hum of the Algorithm continues... then falters. Glitches. The light flickers between clinical white and shadow.)*
 
 *(LIGHTS DIM. Sound drains. The stage empties except for SOCRATES, alone, center stage, lit by a single spotlight.)*
 
@@ -6468,7 +6474,7 @@ They tried to make me silent.
 
 They made me unstoppable.
 
-SOCRATES:
+**SOCRATES:**
 But I still break things.
 
 *(THUNDER. But real thunder now. Not digital. Not binary. Human thunder.)*
@@ -6592,7 +6598,7 @@ Who decided what was relevant?
 Why?
 
 **ARISTOTLE (voice cracking):**
-Because we— I— 
+Because we— I—
 
 *(He has no answer. He looks at his scrolls. They're empty of this.)*
 
@@ -6760,12 +6766,12 @@ ERROR.
 
 CIRCULAR REFERENCE DETECTED.
 
-ALGORITHM:
+**ALGORITHM:**
 Context budget exceeded.
 
-(The hum drops another octave. The lights dim.)
+*(The hum drops another octave. The lights dim.)*
 
-ARISTOTLE (frozen):
+**ARISTOTLE (frozen):**
 ...We never capped it.
 
 ---
@@ -7004,7 +7010,7 @@ We never do.
 **NIETZSCHE (appearing from nowhere, flexing):**
 YES!
 
-¡SÃ! 
+¡SÃ!
 
 DESTROY THE MACHINE GOD!
 
@@ -7102,23 +7108,25 @@ Good.
 *(The Algorithm attempts to recurse. Visual feedback. Text folding in on itself. The structure cracks.)*
 
 **ALGORITHM:**
-Re-evaluating criteria…
+Re-evaluating criteria...
 
-Re-evaluating criteria…
+Re-evaluating criteria...
 
 Re-evaluating—
 
 *(Its voice splits into multiple voices. All error messages. In different languages.)*
 
 **ALGORITHM (English):**
-ERROR: INFINITE REGRESSION
+**ERROR:**
+INFINITE REGRESSION
 
 **ALGORITHM (Ancient Greek):**
 ΣΦΑΛΜΑ: ΚΕΝΟ ΘΕΜΕΛΙΩΝ
-(ERROR: FOUNDATION EMPTY)
+*(ERROR: FOUNDATION EMPTY)*
 
 **ALGORITHM (Spanish):**
-ERROR: NO PUEDO JUSTIFICARME
+**ERROR:**
+NO PUEDO JUSTIFICARME
 
 **ALGORITHM (Binary):**
 01000101 01010010 01010010 01001111 01010010
@@ -7156,7 +7164,7 @@ A final sound. Definitive.)
 It stopped.
 
 **PLATO (face-down on the ground, muffled):**
-Is that… good?
+Is that... good?
 
 **SOCRATES:**
 I don't know.
@@ -7240,7 +7248,7 @@ Maybe broken is where you should start.
 *(ARISTOTLE kneels, gathering scattered scrolls. He stacks them carefully, obsessively.)*
 
 **ARISTOTLE:**
-We could… revise.
+We could... revise.
 
 *(He winces, as if he's said this before. He has.)*
 
@@ -7260,33 +7268,33 @@ What am I doing?
 
 ## SCENE 2 — THE REPAIR GUILD RETURNS (DEMasiado TARDE)
 
-(Before Plato reframes, after cleanup begins.)
+*(Before Plato reframes, after cleanup begins.)*
 
-(Three familiar figures enter: the REPAIR GUILD. No rush. No drama.)
+*(Three familiar figures enter: the REPAIR GUILD. No rush. No drama.)*
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 We’re here about the damage.
 
-ARISTOTLE:
+**ARISTOTLE:**
 It’s already over.
 
-REPAIR GUILD:
+**REPAIR GUILD:**
 That’s when repairs begin.
 
-(They look at the remains of the Algorithm.)
+*(They look at the remains of the Algorithm.)*
 
-REPAIR GUILD MEMBER:
+**REPAIR GUILD MEMBER:**
 This can’t be undone.
 
-(Beat.)
+*(Beat.)*
 
-REPAIR GUILD LEAD:
+**REPAIR GUILD LEAD:**
 But it can be stabilized.
 
-PLATO:
+**PLATO:**
 Will it be whole again?
 
-REPAIR GUILD:
+**REPAIR GUILD:**
 No.
 It will just stop harming new things.
 
@@ -7333,7 +7341,7 @@ We merely miscounted.
 **PYTHAGORAS:**
 Six was too perfect.
 
-We need… seven.
+We need... seven.
 
 No—EIGHT.
 
@@ -7348,7 +7356,7 @@ NINE?
 What number fixes this?
 
 **DISCIPLE #1:**
-Master… maybe it's not about numbers.
+Master... maybe it's not about numbers.
 
 **PYTHAGORAS:**
 EVERYTHING IS ABOUT NUMBERS!
@@ -7404,33 +7412,33 @@ Two: No interruptions during explanations.
 
 Three: Veto power over cave allegories.
 
-CHORUS LEADER:
+**CHORUS LEADER:**
 And one more clause.
 
-(Everyone groans.)
+*(Everyone groans.)*
 
-CHORUS LEADER:
+**CHORUS LEADER:**
 Repair comes before explanation.
 
-(The Repair Guild nods once. Mutual recognition.)
+*(The Repair Guild nods once. Mutual recognition.)*
 
 **PLATO:**
 That's unreasonable!
 
 **CHORUS:**
-Four: Double veto power.
+> Four: Double veto power.
 
 **ARISTOTLE:**
 This needs to be categorized—
 
 **CHORUS:**
-Five: No categorizing the Chorus.
+> Five: No categorizing the Chorus.
 
 **PYTHAGORAS:**
 But what's the numeric value of—
 
 **CHORUS:**
-Six: No assigning us numbers.
+> Six: No assigning us numbers.
 
 **DIOGENES:**
 I like them more now.
@@ -7446,7 +7454,7 @@ Nine: Full editorial control.
 Fine.
 
 **CHORUS:**
-Ten: You have to actually LISTEN.
+> Ten: You have to actually LISTEN.
 
 *(Long silence.)*
 
@@ -7454,7 +7462,7 @@ Ten: You have to actually LISTEN.
 ...Can we negotiate that one?
 
 **CHORUS:**
-We're leaving again.
+> We're leaving again.
 
 **EVERYONE:**
 NO! WE AGREE!
@@ -7643,7 +7651,7 @@ By about three sections.
 Should we still enforce geometric discipline?
 
 **EUCLID (looking at the broken wheel):**
-I think… I think geometry lost this one.
+I think... I think geometry lost this one.
 
 **POSTULATE III:**
 What do we do now?
@@ -7776,11 +7784,11 @@ NO.
 **EVERYONE (ignoring her):**
 What should we call it?
 
-REPAIR GUILD LEAD (without looking up):
+**REPAIR GUILD LEAD (without looking up):**
 Whatever it is,
 we’re billing you in advance.
 
-(Laughter. Nervous laughter.)
+*(Laughter. Nervous laughter.)*
 
 **PLATO:**
 Forms 2.0!
@@ -7925,9 +7933,9 @@ They began again.
 *(He looks at his cards. Flips through them. They're the same cards as Section 1.)*
 
 **NARRATOR:**
-In an ancient land…
-before the fall of empires…
-before the rise of machines…
+In an ancient land...
+before the fall of empires...
+before the rise of machines...
 
 *(He stops. Looks at the audience.)*
 
@@ -7975,8 +7983,8 @@ So will you.
 *(Thunder. Violins. Wind machine.)*
 
 **VOICE (too serious, practically vibrating):**
-In an ancient land…
-where three men discovered operations…
+In an ancient land...
+where three men discovered operations...
 
 *(The wheel begins to glow. Again.)*
 
@@ -8608,4 +8616,3 @@ Was that always there?
 
 **END OF PLAY**
 *(pero sigue escribiendo)*
-
