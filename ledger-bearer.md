@@ -6,6 +6,24 @@
 
 ---
 
+## Table of Contents
+
+- [Section 1 — The Departure / La Salida](#section-1)
+- [Section 2 — The Port of Conditions / El Puerto de Condiciones](#section-2)
+- [Section 3 — The Island of Good Explanations / La Isla de las Buenas Explicaciones](#section-3)
+- [Section 4 — The Uninterpretable Storm / La Tormenta Sin Sentido](#section-4)
+- [Section 5 — The Island of One Cause / La Isla de Una Causa](#section-5)
+- [Section 6 — Circe the Reframer / Circe, La Reencuadradora](#section-6)
+- [Section 7 — The Underworld of Drafts / El Inframundo de los Borradores](#section-7)
+- [Section 8 — The Sirens of Final Synthesis / Las Sirenas de la Síntesis Final](#section-8)
+- [Section 9 — Scylla and Charybdis / Escila y Caribdis](#section-9)
+- [Section 10 — Calypso’s Perfect Room / El Cuarto Perfecto](#section-10)
+- [Section 11 — The Phaeacians of Applause / Los Feacios del Aplauso](#section-11)
+- [Section 12 — Ithaca, Unrecognizable / Ítaca, Irreconocible](#section-12)
+
+---
+<a id="section-1"></a>
+
 # SECTION 1 — THE DEPARTURE / LA SALIDA 🌾
 
 *(Everyone agrees to go home; no one defines home)*
@@ -1143,6 +1161,9 @@ I can explain the longing.
 ---
 
 ## END OF SECTION 1
+
+---
+<a id="section-2"></a>
 
 # SECTION 2 — THE PORT OF CONDITIONS / EL PUERTO DE CONDICIONES ⚓
 
@@ -2831,6 +2852,9 @@ Because it knows too much.
 
 ## END OF SECTION 2
 
+---
+<a id="section-3"></a>
+
 # SECTION 3 — THE ISLAND OF GOOD EXPLANATIONS / LA ISLA DE LAS BUENAS EXPLICACIONES 🌴
 
 *(No one suffers incorrectly; nothing changes)*
@@ -4351,6 +4375,9 @@ This is better.
 
 ## END OF SECTION 3
 
+---
+<a id="section-4"></a>
+
 # SECTION 4 — THE UNINTERPRETABLE STORM / LA TORMENTA SIN SENTIDO ⛈️
 
 *(Something happens; no one gets to know why)*
@@ -5727,6 +5754,9 @@ Not to you.
 ---
 
 ## END OF SECTION 4
+
+---
+<a id="section-5"></a>
 
 # SECTION 5 — THE ISLAND OF ONE CAUSE / LA ISLA DE UNA CAUSA 👁️
 
@@ -7483,6 +7513,9 @@ I SAW THAT.
 ---
 
 ## END OF SECTION 5
+
+---
+<a id="section-6"></a>
 
 # SECTION 6 — CIRCE THE REFRAMER / CIRCE, LA REENCUADRADORA 🪞
 
@@ -9380,6 +9413,9 @@ You left us in draft.
 
 ## END OF SECTION 6
 
+---
+<a id="section-7"></a>
+
 # SECTION 7 — THE UNDERWORLD OF DRAFTS / EL INFRAMUNDO DE LOS BORRADORES 🕯️
 
 *(The abandoned versions still have claims)*
@@ -10969,6 +11005,9 @@ Tie him first.
 
 ## END OF SECTION 7
 
+---
+<a id="section-8"></a>
+
 # SECTION 8 — THE SIRENS OF FINAL SYNTHESIS / LAS SIRENAS DE LA SÍNTESIS FINAL 🎶
 
 *(The song that leaves no remainder)*
@@ -12548,6 +12587,9 @@ They may encounter:
 
 ## END OF SECTION 8
 
+---
+<a id="section-9"></a>
+
 # SECTION 9 — SCYLLA AND CHARYBDIS / ESCILA Y CARIBDIS 🌊
 
 *(One side eats distinctions; the other drowns action)*
@@ -13939,6 +13981,9 @@ They may encounter:
 ---
 
 ## END OF SECTION 9
+
+---
+<a id="section-10"></a>
 
 # SECTION 10 — CALYPSO’S PERFECT ROOM / EL CUARTO PERFECTO 🛏️
 
@@ -15422,6 +15467,9 @@ They may encounter:
 ---
 
 ## END OF SECTION 10
+
+---
+<a id="section-11"></a>
 
 # SECTION 11 — THE PHAEACIANS OF APPLAUSE / LOS FEACIOS DEL APLAUSO 👏
 
@@ -16930,6 +16978,9 @@ Read.
 ---
 
 ## END OF SECTION 11
+
+---
+<a id="section-12"></a>
 
 # SECTION 12 — ITHACA, UNRECOGNIZABLE / ÍTACA, IRRECONOCIBLE 🏠
 

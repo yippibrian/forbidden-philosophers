@@ -6,6 +6,24 @@
 
 ---
 
+## Table of Contents
+
+- [Section 1 — Foundations / El Triángulo del Destino](#section-1)
+- [Section 2 — Running Gags Begin / Las Bromas Eternas](#section-2)
+- [Section 3 — Chorus Strike / La Huelga del Coro](#section-3)
+- [Section 4 — The Golden Apple / La Manzana Dorada](#section-4)
+- [Section 5 — The Tournament / El Torneo](#section-5)
+- [Section 6 — The Great Trial / El Juicio Eterno](#section-6)
+- [Section 7 — The Crossing / El Encuentro Imposible](#section-7)
+- [Section 8 — The Algorithm / El Algoritmo](#section-8)
+- [Section 8.5 — The Silence / El Pasado Prohibido](#section-8-5)
+- [Section 9 — Socrates Breaks It / La Destrucción](#section-9)
+- [Section 10 — Aftermath / No Resolution / El Final Que No Es Final](#section-10)
+- [Section 11 — The Ledger / El Registro](#section-11)
+
+---
+<a id="section-1"></a>
+
 # SECTION 1 — FOUNDATIONS / EL TRIÁNGULO DEL DESTINO ✅
 
 ## *(Pythagoras / Plato / Aristotle are introduced as roles, not yet questioned)*
@@ -792,6 +810,7 @@ They never listen anyway.
 **END OF SECTION 1**
 
 ---
+<a id="section-2"></a>
 
 # SECTION 2 — RUNNING GAGS BEGIN / LAS BROMAS ETERNAS 🔥
 
@@ -1525,6 +1544,7 @@ because destiny is extremely rude.
 **END OF SECTION 2**
 
 ---
+<a id="section-3"></a>
 
 # SECTION 3 — CHORUS STRIKE / LA HUELGA DEL CORO ⚠️
 
@@ -2094,6 +2114,8 @@ Things will probably get worse!
 **END OF SECTION 3**
 
 ---
+<a id="section-4"></a>
+
 # SECTION 4 — THE GOLDEN APPLE / LA MANZANA DORADA 🍎
 
 ## *(Judgment without context)*
@@ -2820,6 +2842,7 @@ Right?
 **END OF SECTION 4**
 
 ---
+<a id="section-5"></a>
 
 # SECTION 5 — THE TOURNAMENT / EL TORNEO 🏟️
 
@@ -3533,6 +3556,7 @@ They crash and turn... 🎵
 **END OF SECTION 5**
 
 ---
+<a id="section-6"></a>
 
 # SECTION 6 — THE GREAT TRIAL / EL JUICIO ETERNO ⚖️
 
@@ -4437,6 +4461,7 @@ Anyone have the script?
 **END OF SECTION 6**
 
 ---
+<a id="section-7"></a>
 
 # SECTION 7 — THE CROSSING / EL ENCUENTRO IMPOSIBLE 🌀
 
@@ -5414,6 +5439,8 @@ Because that always works.
 **END OF SECTION 7**
 
 ---
+<a id="section-8"></a>
+
 # SECTION 8 — THE ALGORITHM / EL ALGORITMO 🤖
 
 ## *(Formalization appears as salvation)*
@@ -6073,6 +6100,7 @@ I cannot be broken.
 **END OF SECTION 8**
 
 ---
+<a id="section-8-5"></a>
 
 # SECTION 8.5 — THE SILENCE / EL PASADO PROHIBIDO
 
@@ -6509,6 +6537,7 @@ Cannot—
 **END OF SECTION 8.5**
 
 ---
+<a id="section-9"></a>
 
 # SECTION 9 — SOCRATES BREAKS IT / LA DESTRUCCIÓN
 
@@ -7236,6 +7265,7 @@ Maybe broken is where you should start.
 **END OF SECTION 9**
 
 ---
+<a id="section-10"></a>
 
 # SECTION 10 — AFTERMATH / NO RESOLUTION (EL FINAL QUE NO ES FINAL)
 
@@ -8077,6 +8107,7 @@ Got it — you want the **Ledger chapter rewritten to match the exact structural
 Here’s the rewrite in that format:
 
 ---
+<a id="section-11"></a>
 
 # SECTION 11 — THE LEDGER / EL REGISTRO 📖
 
