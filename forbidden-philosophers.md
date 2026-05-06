@@ -1,6 +1,8 @@
 # THE FORBIDDEN PHILOSOPHERS
 
-## *A Philosophical Telenovela in Defective Episodes*
+## *An Anti-Iliad in Defective Episodes*
+
+### *A Philosophical Telenovela About Systems at War*
 
 ---
 

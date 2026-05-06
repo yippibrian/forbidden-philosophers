@@ -2,6 +2,8 @@
 
 ## An Anti-Odyssey in Rustic Episodes
 
+### *A Philosophical Telenovela About Return, Repair, and Home*
+
 ---
 
 # SECTION 1 — THE DEPARTURE / LA SALIDA 🌾
